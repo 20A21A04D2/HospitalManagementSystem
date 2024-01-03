@@ -1,1 +1,4 @@
 # HospitalManagementSystem
+springboot
+reactjs
+mysqlbench
